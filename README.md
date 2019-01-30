@@ -1,6 +1,7 @@
 # GeometricWeather
 
 ![Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather/blob/master/work/preview_header.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdimqua%2FGeometricWeather.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdimqua%2FGeometricWeather?ref=badge_shield)
 
 ### app简介
 
@@ -207,3 +208,6 @@ permanent authorization for you to choose that version for the
 Library.
 
 ```
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdimqua%2FGeometricWeather.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdimqua%2FGeometricWeather?ref=badge_large)
